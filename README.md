@@ -5,7 +5,7 @@ classic [Sokoban](http://en.wikipedia.org/wiki/Sokoban). The goal of the game is
 boxes to their storage locations in the warehouse to andvance to the next level. You control the 
 player character with the arrow keys.
 
-If you want to try this 4KB Windows version out, you can download it [here](http://example.com/).
+If you want to try this 4KB Windows version out, you can download it [here](https://github.com/osjoberg/boxworld4k/releases/download/1.1/BoxWorld4K.exe).
 
 Features
 ========
@@ -20,10 +20,10 @@ Some of the highlights:
 * Hours or even days of puzzling fun
 * 4KB
 
-How can all this goodness be so damn small?
-===========================================
+How can all this goodness be so tiny?
+=====================================
 In approximate order of importance:
-* The game has good qualifications to be tiny with it´s simple game mechanics, small levels and low tile count
+* The game has good qualifications to be tiny
 * The standard library functionality was removed
 * Graphics for the tiles are stored as graphics drawing instructions instead of being a bitmap
 * Levels are stored in a cumbersome but compact way
