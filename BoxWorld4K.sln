@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BoxWorld4K", "BoxWorld4K\BoxWorld4K.vcxproj", "{2DF291ED-928A-4F0D-8D64-279FF9935973}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DataGenerator", "DataGenerator\DataGenerator.vcxproj", "{48D53583-6A92-42A2-835B-BDF089EB1945}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+		Tiny|Win32 = Tiny|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DF291ED-928A-4F0D-8D64-279FF9935973}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2DF291ED-928A-4F0D-8D64-279FF9935973}.Debug|Win32.Build.0 = Debug|Win32
+		{2DF291ED-928A-4F0D-8D64-279FF9935973}.Release|Win32.ActiveCfg = Release|Win32
+		{2DF291ED-928A-4F0D-8D64-279FF9935973}.Release|Win32.Build.0 = Release|Win32
+		{2DF291ED-928A-4F0D-8D64-279FF9935973}.Tiny|Win32.ActiveCfg = Tiny|Win32
+		{2DF291ED-928A-4F0D-8D64-279FF9935973}.Tiny|Win32.Build.0 = Tiny|Win32
+		{48D53583-6A92-42A2-835B-BDF089EB1945}.Debug|Win32.ActiveCfg = Debug|Win32
+		{48D53583-6A92-42A2-835B-BDF089EB1945}.Debug|Win32.Build.0 = Debug|Win32
+		{48D53583-6A92-42A2-835B-BDF089EB1945}.Release|Win32.ActiveCfg = Release|Win32
+		{48D53583-6A92-42A2-835B-BDF089EB1945}.Release|Win32.Build.0 = Release|Win32
+		{48D53583-6A92-42A2-835B-BDF089EB1945}.Tiny|Win32.ActiveCfg = Tiny|Win32
+		{48D53583-6A92-42A2-835B-BDF089EB1945}.Tiny|Win32.Build.0 = Tiny|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
