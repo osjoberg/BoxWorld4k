@@ -5,6 +5,8 @@ classic [Sokoban](http://en.wikipedia.org/wiki/Sokoban). The goal of the game is
 boxes to their storage locations in the warehouse to andvance to the next level. You control the 
 player character with the arrow keys.
 
+![Screenshot](Screenshot.png)
+
 If you want to try this 4KB Windows version out, you can download it [here](https://github.com/osjoberg/boxworld4k/releases/download/1.1/BoxWorld4K.exe).
 
 Features
@@ -34,7 +36,7 @@ In approximate order of importance:
 
 History
 =======
-I think it was in the summer of 2002 when I had lot´s of spare time between semesters that I got 
+I think it was in the summer of 2002 when I had lotÂ´s of spare time between semesters that I got 
 the idea of trying to recreate a fun game with the goal of cramming in as many fun play hours as 
 possible in 32KB. At the time I was playing "Box World" which is a game that I really love. It 
 turns out it was a really good candidate for this project because it is a puzzle game which takes 
